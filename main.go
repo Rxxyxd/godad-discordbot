@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	handler "github.com/Rxxyxd/discord-bot/handlers"
+	handler "github.com/Rxxyxd/godad-discordbot/handlers"
 	"github.com/bwmarrin/discordgo"
 )
 
